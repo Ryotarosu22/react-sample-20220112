@@ -1,0 +1,18 @@
+{
+  "liveSassCompile.settings.autoprefix": [],
+  "editor.fontSize": 18,
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/css"
+    }
+  ],
+  "explorer.confirmDelete": false,
+  "prettier.prettierPath": "/Users/ryotaro/react-sample-20220112",
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "html.format.enable": false,
+  "javascript.format.enable": false,
+  "eslint.nodePath": "/Users/ryotaro/react-sample-20220112/node_modules"
+}
